@@ -101,22 +101,6 @@ QR_code_generator/
 └── README.md
 ```
 
----
-
-## 🛠️ Build as EXE (Windows)
-
-You can convert the program into a standalone executable:
-
-```bash
-pip install pyinstaller
-pyinstaller --onefile --windowed QR_gen.py
-```
-
-The executable will be located in:
-
-```
-dist/QR_gen.exe
-```
 
 ---
 
@@ -143,10 +127,7 @@ dist/QR_gen.exe
 
 ## 👨‍💻 Author
 
-Your Name Here
+Kim H. Thorsen
 
 ---
 
-## 📄 License
-
-This project is open-source and free to use.
